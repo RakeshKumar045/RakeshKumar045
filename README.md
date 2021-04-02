@@ -17,6 +17,9 @@
   <img align="left" alt="Rakesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br/>
+<br/>
+
 - 🔭 I’m currently working on MLOPS App Development
 - 🌱 I’m currently learning Deep Learning, AI, Big Data and Kubernetes related area.
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
