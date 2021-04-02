@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm [Rakesh Kumar!](https://www.linkedin.com/in/rakesh-kumar-gupta-52b77ab4/) 👋
 
 - 🔭 I’m currently working on MLOPS App Development
 - 🌱 I’m currently learning Deep Learning, AI, Big Data and Kubernetes related area.
