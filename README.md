@@ -30,5 +30,6 @@
 - ⚡ Fun fact: I would like to do Cooking, Exercise, Help Someone, Learn New Skills and social work in free time.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RakeshKumar045&show_icons=true&theme=vue-dark&hide=prs)
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark)](https://github.com/RakeshKumar045)
