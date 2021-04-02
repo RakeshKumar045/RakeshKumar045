@@ -40,4 +40,6 @@
 
 # hello world
 
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+## Stargazers
+
+[![Stargazers repo roster for @RakeshKumar045](https://reporoster.com/stars/RakeshKumar045)](https://github.com/RakeshKumar045/stargazers)
