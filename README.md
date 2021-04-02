@@ -36,14 +36,10 @@
 
 [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/RakeshKumar045/github-readme-stats) [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/RakeshKumar045/github-readme-stats)
 
-<a href="https://github.com/RakeshKumar045/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshKumar045&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/RakeshKumar045/Tensorflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshKumar045&repo=tensorflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
-<a href="https://github.com/RakeshKumar045/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshKumar045&repo=java-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
 
 ## 🔧 Technologies & Tools
 
