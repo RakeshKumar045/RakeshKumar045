@@ -36,11 +36,6 @@
 
 [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/RakeshKumar045/github-readme-stats) [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/RakeshKumar045/github-readme-stats)
 
-<a href="https://github.com/RakeshKumar045/Tensorflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RakeshKumar045&repo=tensorflow&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
