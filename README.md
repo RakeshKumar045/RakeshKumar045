@@ -42,4 +42,4 @@
 
 ## Stargazers
 
-[![Stargazers repo roster for @RakeshKumar045](https://reporoster.com/stars/RakeshKumar045)](https://github.com/RakeshKumar045/stargazers)
+[!(https://reporoster.com/stars/RakeshKumar045)](https://github.com/RakeshKumar045/stargazers)
