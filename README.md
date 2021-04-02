@@ -34,17 +34,11 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark)](https://github.com/RakeshKumar045)
 
-# rrrrr
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045)](https://github.com/RakeshKumar045/github-readme-stats)
 
-### okk
+[![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/RakeshKumar045/github-readme-stats)
 
-[![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RakeshKumar045)](https://github.com/RakeshKumar045/github-readme-stats)
-
-# rakeshkumar_raka_gupta
-
-[![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RakeshKumar045&hide_progress=true)](https://github.com/RakeshKumar045/github-readme-stats)
+[![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/RakeshKumar045/github-readme-stats)
 
 ## Follow Me:
 
