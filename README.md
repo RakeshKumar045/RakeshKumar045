@@ -29,4 +29,6 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would like to do Cooking, Exercise, Help Someone, Learn New Skills and social work in free time.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RakeshKumar045&show_icons=true&theme=vue-dark&hide=prs)  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark)](https://github.com/RakeshKumar045)
+![Github stats](https://github-readme-stats.vercel.app/api?username=RakeshKumar045&show_icons=true&theme=vue-dark&hide=prs)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark)](https://github.com/RakeshKumar045)
