@@ -1,5 +1,7 @@
 ## Hi, I'm [Rakesh Kumar!](https://www.linkedin.com/in/rakesh-kumar-gupta-52b77ab4/) 👋
 
+![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=blue)
+
 <a href="https://twitter.com/2702rakesh">
   <img align="left" alt="Rakesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
