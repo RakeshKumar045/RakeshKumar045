@@ -32,7 +32,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RakeshKumar045&show_icons=true&theme=vue-dark&hide=prs)
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark)](https://github.com/RakeshKumar045) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark&width="20")](https://github.com/RakeshKumar045) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats)
 
 [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats) [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats)
 
