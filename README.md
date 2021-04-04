@@ -110,4 +110,4 @@
 
 <img src="https://media.giphy.com/media/55vNcZTGlOzHvNgrTz/giphy.gif" width="250">
 
-<img src="https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/NsBknNwmmWE8WU1q2U/giphy.gif">
