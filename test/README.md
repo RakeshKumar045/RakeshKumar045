@@ -34,7 +34,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark width="20")](https://github.com/RakeshKumar045) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045)](https://github.com/RakeshKumar045/github-readme-stats)
 
-[![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats) [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/RakeshKumar045/github-readme-stats)
+[![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats) [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats)
 
 ## 🔧 Technologies & Tools
 
