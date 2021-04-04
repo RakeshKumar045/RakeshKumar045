@@ -34,9 +34,11 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&layout=compact&theme=vue-dark&width="20")](https://github.com/RakeshKumar045) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshKumar045&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats)
 
+
+
 [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats) [![Rakesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true&theme=vue-dark)](https://github.com/RakeshKumar045/github-readme-stats)
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=window&logoColor=white&color=2bbc8a)
