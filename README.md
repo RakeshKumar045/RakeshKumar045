@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on MLOPS App Development
+- 🔭 I’m currently working on Data Science and MLOPS App Development
 - 🌱 I’m currently learning Deep Learning, AI, Big Data and Kubernetes related area.
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
 - 🤔 I’m looking for Data Science, Machine Learning, deep Learning, NLP, Python, Java and MLOPS freelance work.
