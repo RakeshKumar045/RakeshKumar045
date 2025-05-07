@@ -22,14 +22,14 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Data Science and MLOPS App Development
+- 🔭 I’m currently working on Data Science Lead and MLOPS App Development
 - 🌱 I’m currently learning Deep Learning, AI, Big Data and Kubernetes related area.
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
 - 🤔 I’m looking for Data Science, Machine Learning, deep Learning, NLP, Python, Java and MLOPS freelance work.
 
 - 👨‍💻 Please contact me for Data Science Trainer, College Placement Training, Data Science Workshop, Coding
   Competition Workshop(Email ID : rakesh.sit045@gmail.com)
-- 💬 Ask me about Python, Java, SQL, Data Science, AI, Big Data, Devops, AWS, Kubernetes.
+- 💬 Ask me about Python, Java, SQL, Data Science, AI, LLM, GenAI, Big Data, Devops, AWS, Azure, Databricks, MCP, Agentic AI, Agents, RAG, LLM Fine Tune,  Kubernetes.
 - 📫 How to reach me: https://www.linkedin.com/in/rakesh-kumar-gupta-52b77ab4/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would like to do Cooking, Exercise, Help Someone, Learn New Skills and social work in free time.
