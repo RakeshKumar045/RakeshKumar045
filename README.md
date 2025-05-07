@@ -29,7 +29,7 @@
 
 - 👨‍💻 Please contact me for Data Science Trainer, College Placement Training, Data Science Workshop, Coding
   Competition Workshop(Email ID : rakesh.sit045@gmail.com)
-- 💬 Ask me about Python, Java, SQL, Data Science, AI, LLM, GenAI, Big Data, Devops, AWS, Azure, Databricks, MCP, Agentic AI, Agents, RAG, LLM Fine Tune,  Kubernetes.
+- 💬 Ask me about Python, Java, SQL, Data Science, AI, LLM, GenAI, Tensorflow, Transformer, Pytorch, Chatbot, OpenAI, Llama, Terraform, Snowflake, Big Data, Devops, AWS, Azure, Databricks, MCP, Agentic AI, Agents, RAG, LLM Fine Tune,  Kubernetes.
 - 📫 How to reach me: https://www.linkedin.com/in/rakesh-kumar-gupta-52b77ab4/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would like to do Cooking, Exercise, Help Someone, Learn New Skills and social work in free time.
