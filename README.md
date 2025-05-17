@@ -22,10 +22,10 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Data Science Lead and MLOPS App Development
-- 🌱 I’m currently learning Deep Learning, AI, Big Data and Kubernetes related area.
+- 🔭 I’m currently working on Data Science Lead and MLOPS App Development and GenAI-LLM developer.
+- 🌱 I’m currently learning LLM, Agentic AI, Big Data and Kubernetes related area.
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
-- 🤔 I’m looking for Data Science, Machine Learning, deep Learning, NLP, Python, Java and MLOPS freelance work.
+- 🤔 I’m looking for Data Science, Machine Learning, Deep Learning, NLP, LLM, Chatbot, Python, Java and MLOPS freelance work.
 
 - 👨‍💻 Please contact me for Data Science Trainer, College Placement Training, Data Science Workshop, Coding
   Competition Workshop(Email ID : rakesh.sit045@gmail.com)
