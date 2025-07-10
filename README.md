@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Data Science Lead and MLOPS App Development and GenAI-LLM developer.
+- 🔭 I’m currently working on Data Science Manager/Lead and MLOPS App Development and GenAI-LLM developer.
 - 🌱 I’m currently learning LLM, Agentic AI, Big Data and Kubernetes related area.
 - 👯 I’m looking to collaborate on Python, Data Science, Big Data and Devops projects
 - 🤔 I’m looking for Data Science, Machine Learning, Deep Learning, NLP, LLM, Chatbot, Python, Java and MLOPS freelance work.
